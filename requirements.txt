@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+requests
+yfinance
+plotly
+statsmodels
+scipy
+openpyxl
+lxml
+html5lib
+beautifulsoup4
